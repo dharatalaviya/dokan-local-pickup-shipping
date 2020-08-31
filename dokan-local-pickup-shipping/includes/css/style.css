@@ -1,0 +1,5 @@
+.pickup_shipping_fields{ margin-bottom: 10px; }
+.pickup_shipping_fields .input-text {width:48%;  }
+.pickup_shipping_fields .input-text.select{margin-left: 3% }
+.pickup_shipping_title{line-height: 27px;}
+.delivery-hightlight {color:green;}
